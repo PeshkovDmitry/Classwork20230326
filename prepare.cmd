@@ -48,4 +48,4 @@ dotnet new console
 cd .. 
 git init
 git add --all
-git commit -m "Первый комммит с пустыми папками"
+git commit -m "empty"
